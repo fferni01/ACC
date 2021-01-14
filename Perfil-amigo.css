@@ -197,6 +197,10 @@
   margin: -26px 0 0 905px;
 }
 
+.u-section-1 .u-carousel-item-2 {
+  background-image: none;
+}
+
 .u-section-1 .u-container-layout-2 {
   padding: 30px 50px;
 }
